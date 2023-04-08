@@ -158,6 +158,21 @@ In order to use some windows hotkeys, we need to use the "complex Modifications"
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Known issues (FAQ)
+
+  ### No Windows-Layout in the Keyboard-Settings (other)
+  If you don't see the "Windows Keyboard, LANG" in the Keyboard-Settings, even though you put the "win-germany.keylayout"-file into place, you need to restart your Mac. (I don't know why, but it works)
+
+  <br>
+
+  ### ( ~ becomes ± ) and ( | becomes ≤ )
+  Occasionally it switches the keyboard layout back to the default one. (You can verify the switch easily since the info icon switches back to the [ A ] instead of the keyboard symbol) If this happens, just switch it back to the Keyboard-Entry and it will work again.
+
+  FYI; It's a hotkey on mac or something, until I find out what it is, I'll just leave it here.
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## Contributing
   Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
