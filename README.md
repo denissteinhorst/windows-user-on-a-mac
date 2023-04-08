@@ -193,6 +193,9 @@ Project Link: [https://github.com/denissteinhorst/windows-user-on-a-mac](https:/
   This Configuration is always in development. If you have any suggestions, feel free to open an issue or a pull request. I'm always happy to hear from you!
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Credits
+  - Ukelele - German Keyboard Layout [from: SIL LANGUAGE TECHNOLOGY](https://software.sil.org/ukelele/)
+  - Best-README-Template [from: othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 ## Documentation
 
@@ -201,3 +204,4 @@ Project Link: [https://github.com/denissteinhorst/windows-user-on-a-mac](https:/
 | **Karabiner Elements** | [Karabiner Elements](https://karabiner-elements.pqrs.org/) | Karabiner Elements is a powerful utility for keyboard customization on macOS. | [karabiner-elements docs](https://karabiner-elements.pqrs.org/docs/) |
 | Mac OS | [Mac OS](https://www.apple.com/macos/) | Mac OS is the operating system of the Macintosh computers. | [mac os knowledge-base](https://support.apple.com/kb/index?page=search&q=settings&product=&doctype=&currentPage=1&includeArchived=false&locale=en_US&src=globalnav_support&type=organic) |
 | **Windows** | [Windows](https://www.microsoft.com/en-us/windows) | Windows is the operating system of the Windows computers. | [windows knowledge-base](https://support.microsoft.com/en-us/windows) |
+
