@@ -65,6 +65,8 @@ So if you:
     </li>
     <li>
         4) "Scroll to the Bottom", select "Other", then "Windows Keyboard, LANG" and click "Add"
+         <br><br>
+        INFO: If you dont have the "Windows Keyboard, LANG" option, you need to add the file: "win-germany.keylayout" in the "Keyboard Layouts" under: "/Library/Keyboard Layouts/" (for all users) alternatively you can place it under: "~/Library/Keyboard Layouts/" (only for you) as well.
         <br><br>
         <a><img src="docs/images/mac-settings-4.png" alt="mac-settings-4"></a>
         <br><br>
