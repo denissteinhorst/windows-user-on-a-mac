@@ -165,10 +165,26 @@ In order to use some windows hotkeys, we need to use the "complex Modifications"
 
   <br>
 
-  ### ( ~ becomes ± ) and ( | becomes ≤ )
-  Occasionally it switches the keyboard layout back to the default one. (You can verify the switch easily since the info icon switches back to the [ A ] instead of the keyboard symbol) If this happens, just switch it back to the Keyboard-Entry and it will work again.
-
-  FYI; It's a hotkey on mac or something, until I find out what it is, I'll just leave it here.
+  ### ( ~ becomes ± ) and ( | becomes ≤ ) aka. not using Windows keys anymore
+  Due to a weird Keypress it occasionally switches the keyboard layout back to the default one.
+  <details>
+  <summary>Click here to expand the Fix</summary>
+  <br>
+  <ul>
+    <li>
+        Here you can see how it "should" look like, but everytime the keyboard layout switches back to the default one, your keys become wrong again.
+        <br><br>
+        <a><img src="docs/images/faq-1.png" alt="faq-1"></a>
+        <br><br>
+    </li>
+    <li>
+        To solve that, you need to disable the MacOS Keybinding for "Switch Keyboard-Layout" by following these steps:
+        <br><br>
+        <a><img src="docs/images/faq-2.png" alt="faq-2"></a>
+        <br><br>
+    </li>
+  </ul>
+</details>
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,14 +204,14 @@ Project Link: [https://github.com/denissteinhorst/windows-user-on-a-mac](https:/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Credits
+  - Ukelele - German Keyboard Layout [from: SIL LANGUAGE TECHNOLOGY](https://software.sil.org/ukelele/)
+  - Best-README-Template [from: othneildrew](https://github.com/othneildrew/Best-README-Template)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Closing words
   This Configuration is always in development. If you have any suggestions, feel free to open an issue or a pull request. I'm always happy to hear from you!
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Credits
-  - Ukelele - German Keyboard Layout [from: SIL LANGUAGE TECHNOLOGY](https://software.sil.org/ukelele/)
-  - Best-README-Template [from: othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 ## Documentation
 
