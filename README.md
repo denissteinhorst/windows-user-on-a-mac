@@ -34,8 +34,8 @@ So if you:
 
 ## Prerequisites
   In order to use this guide, you need to have the following installed:
- - [Karabiner Elements](https://karabiner-elements.pqrs.org/) (tested with 14.11.0)
- - Mac OS (tested with Ventura 13.3)
+ - [Karabiner Elements](https://karabiner-elements.pqrs.org/) (tested with <= 16.1.0)
+ - Mac OS (tested with <= Tahoe 26.5.1)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +66,7 @@ So if you:
     <li>
         4) "Scroll to the Bottom", select "Other", then "Windows Keyboard, LANG" and click "Add"
          <br><br>
-        INFO: If you dont have the "Windows Keyboard, LANG" option, you need to add the file: "win-germany.keylayout" in the "Keyboard Layouts" under: "/Library/Keyboard Layouts/" (for all users) alternatively you can place it under: "~/Library/Keyboard Layouts/" (only for you) as well.
+        **INFO: If you dont have the "Windows Keyboard, LANG" option, you need to add the file: "win-germany.keylayout" in the "Keyboard Layouts" under: "/Library/Keyboard Layouts/" (for all users) alternatively you can place it under: "~/Library/Keyboard Layouts/" (only for you) as well.**
         <br><br>
         <a><img src="docs/images/mac-settings-4.png" alt="mac-settings-4"></a>
         <br><br>
